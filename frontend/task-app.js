@@ -1,4 +1,5 @@
 // Task Manager Application - Connected to Backend API
+// Sundara Bharathi
 let tasks = [];
 let currentFilter = 'all';
 let editingTaskId = null;
